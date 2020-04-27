@@ -1,2 +1,19 @@
-echo "# mattia" >
+//credenziali
 
+git config --global user.name 'Tuo Nome GitHub'
+git config --global user.email email@github
+
+
+//cancellazione file
+
+  git rm nomeFile
+
+
+//Stato progetto
+
+  git status
+
+
+//Cambiamenti file
+
+  git diff
